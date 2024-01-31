@@ -1,5 +1,27 @@
 # mintvibe.github.io
 
+# problemer 
+
+Det tok lang tid å få ting til å se bra ut i ulike nettlesere på desktop og mobil. Jeg har forsøkt å løse problemet med ulik skjermstørrelse med Media queries For eksempel slik, vises lenker når det er plass, men en drop-down når sjermen blir for liten. 
+
+Det er fortsatt litt problemer med safari på IOS og MAC enheter.
+
+```css
+@media (min-width: 661px) {
+    .links {
+        display: inline-block;
+    }
+    
+    .container .dropdown {
+        display: none;
+    }
+
+    .content .image img {
+        width: 100%; /* Make the image fill its container on even smaller screens */
+        margin-right: none; /*remove margin-right on smaller screens */
+    }
+}```
+
 # Refrence sheet til It prosjekt: Void energy drink
 
 Jeg brukte Canva.com for å lage logo til siden min, jeg tok en av pre sets de hadde og byttet logo navn til "void"
