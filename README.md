@@ -2,7 +2,7 @@
 
 # problemer 
 
-Når skjermen er smal, og menyen vises som drop down, må man bruke "long press" for å få frem menypunktene på Safari. Dette er kanskje fordi "hover" fungerer ulikt på Safari og andre nettlesere?
+Når skjermen er liten, og menyen vises som en drop down, må man bruke "long press" for å få frem menypunktene på Safari. Dette er kanskje fordi "hover" fungerer ulikt på Safari og andre nettlesere?
 
 Det tok lang tid å få ting til å se bra ut i ulike nettlesere på desktop og mobil. Jeg har forsøkt å løse problemet med ulik skjermstørrelse med Media queries For eksempel slik, vises lenker når det er plass, men en drop-down når sjermen blir for liten. 
 
