@@ -29,8 +29,8 @@ I footer har jeg link til instagram, jeg brukte lit tid på å lage en Instagram
 
 Gallay har en fin hover effekt som lager en lilla skygge og gjør bilde lit større 
 
-Logo
-Hvis du trykker på logoen blir du send tilbake til home
+Logo, Hvis du trykker på logoen blir du send tilbake til home
 
+Nesten alt på siden er "trykkbart"
 
 
