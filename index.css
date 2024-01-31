@@ -309,6 +309,10 @@ input[type="radio"] {
     .links {
         display: none;
     }
+
+    .container:hover .dropdown-content {
+        display: block;
+    }
     
     .container .dropdown {
         display: inline-block;
