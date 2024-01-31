@@ -1,0 +1,58 @@
+/*pre order css*/
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.container h3 {
+    padding-right: 10px;
+}
+
+.selectflavor {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color:black; /* Adjust background color as needed */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.selectflavor label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/*Footer css*/
+.footer-boxes {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Wrap items on small screens */
+    max-width: 1200px;
+    margin: 30px auto 0; /* Adjust the top margin as needed */
+}
+
+.footer-box {
+    flex: 1;
+    padding: 20px;
+    text-align: left; /* Adjust text alignment as needed */
+}
+
+.footer-box h3 {
+    color: #c77dff; /* Purple color for heading in footer-box */
+}
+
+.footer-box p {
+    color: white;
+}
+
+.footer-bottom {
+    margin-top: 20px; /* Adjust the top margin as needed */
+    padding: 10px;
+    background-color: #222; /* Dark background color for footer-bottom */
+}
+
+
+
+
