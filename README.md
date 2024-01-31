@@ -37,25 +37,26 @@ Canva.com «Brukt for å lage logoen»
 # Jeg brukte -cdnjs font awsome, for fonts + Google fonts
 https://fonts.google.com/specimen/Poppins
 
-# Inspirasjon til å lage en reklame "ad" til et selskap kom etter jeg så en video av noen som lage en reklame for Noen nike sko, hvis du ser video ser du at hoved siden ser lik ut, siden jeg syntes sytling så nydelig ut, her er videon
-Insiprasjon video https://www.youtube.com/watch?v=HD7604Amqz0&t=8s&ab_channel=ProCoder
+# Jeg valgte å finne opp et energi drikk mere "void" etter jeg så en video av noen som lage en reklame for Noen nike sko, hvis du ser video ser du at hjemme siden ser lignene, fordi jeg syntes siden så bra ut, her er videon!
+Insiprasjon video: https://www.youtube.com/watch?v=HD7604Amqz0&t=8s&ab_channel=ProCoder
 
-# Animasjon, dette er koden jeg brukte for å få teksten til å bli animert når du refresher siden
+# Animasjon for tekst, dette er koden jeg brukte for å få teksten til å bli animert når du refresher siden
 -Sliding animations https://github.com/michalsnik/aos
+
 
 # Små detaljer jeg brukte en del tid på
 
 Når skjermen blir mindre eller på (mobil) forsvinner navbaren og blir byttet ut mot en ny dropdown meny i form av (bar-icon).
 
-
 Nav baren har farge basert på hvem side på nettsiden du er, eks når du er home så er home delen av navbaren farget lilla.
 
 I footer har jeg link til instagram, jeg brukte lit tid på å lage en Instagram bruker til dette prosjekte, her finner du Instabrukeren: https://www.instagram.com/voidenergyvgs/
 
-Gallay har en fin hover effekt som lager en lilla skygge og gjør bilde lit større 
+Gallary har en fin hover effekt som lager en lilla skygge og gjør bilde lit større 
+<img width="703" alt="image" src="https://github.com/MintVibe/mintvibe.github.io/assets/82243184/3c363755-043c-4af0-840c-4cc207466cd5">
 
-Logo, Hvis du trykker på logoen blir du send tilbake til home
 
-Nesten alt på siden er "trykkbart"
+Logo, Hvis du trykker på logoen blir du send tilbake til home screen
+
 
 
