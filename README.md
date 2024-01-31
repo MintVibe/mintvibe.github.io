@@ -5,8 +5,7 @@
 Jeg brukte Canva.com for å lage logo til siden min, jeg tok en av pre sets de hadde og byttet logo navn til "void"
 Canva.com «Brukt for å lage logoen»
 
-# Alle bildene brukt på nettsiden min er laget av Ai på
--pixlr.com (Ai genererte bilder for «Void Energy Drink») noen exempler
+# Alle bildene brukt på nettsiden min er laget av Ai på pixlr.com (Ai genererte bilder for «Void Energy Drink») noen exempler
 <img width="452" alt="image" src="https://github.com/MintVibe/mintvibe.github.io/assets/82243184/d64cfc32-c643-45f7-8174-7662177c2db9">
 <img width="452" alt="image" src="https://github.com/MintVibe/mintvibe.github.io/assets/82243184/4967e34f-945a-4f64-84e4-d0a345a18d4e">
 
@@ -21,15 +20,13 @@ Insiprasjon video https://www.youtube.com/watch?v=HD7604Amqz0&t=8s&ab_channel=Pr
 
 # Små detaljer jeg brukte en del tid på
 
-Når skjermen blir mindre (mobil) forsvinner navbaren og blir byttet ut mot en dropdown meny (bar-icon).
+Når skjermen blir mindre eller på (mobil) forsvinner navbaren og blir byttet ut mot en ny dropdown meny i form av (bar-icon).
 
-Nav-bar
+
 Nav baren har farge basert på hvem side på nettsiden du er, eks når du er home så er home delen av navbaren farget lilla.
 
-Footer
 I footer har jeg link til instagram, jeg brukte lit tid på å lage en Instagram bruker til dette prosjekte, her finner du Instabrukeren: https://www.instagram.com/voidenergyvgs/
 
-Gallary og hover
 Gallay har en fin hover effekt som lager en lilla skygge og gjør bilde lit større 
 
 Logo
