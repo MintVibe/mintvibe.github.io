@@ -20,7 +20,8 @@ Det er fortsatt litt problemer med safari på IOS og MAC enheter.
         width: 100%; /* Make the image fill its container on even smaller screens */
         margin-right: none; /*remove margin-right on smaller screens */
     }
-}```
+}
+```
 
 # Refrence sheet til It prosjekt: Void energy drink
 
